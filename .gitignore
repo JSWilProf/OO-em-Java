@@ -1,0 +1,7 @@
+# Default ignored files
+workspace.xml
+/out/**
+dbnavigator.xml
+jpa-buddy.xml
+git_toolbox_prj.xml
+vcs.xml
